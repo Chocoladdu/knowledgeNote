@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homeview//springboot/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/homeview//springboot/"}
 ---
 
 
