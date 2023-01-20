@@ -7,7 +7,7 @@
 
 ---
 # 学习笔记
-[[Homeview/学习笔记/Springboot\|Springboot]]
+[[Homeview/学习笔记/java/springboot/Springboot\|Springboot]]
 
 ---
 # 个人开发项目
